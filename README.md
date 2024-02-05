@@ -1,8 +1,7 @@
 # Tomato_leaf_disease_detection
 Detect and classify tomato leaf diseases using Convolutional Neural Networks (CNN). This project utilizes a dataset sourced from Kaggle, containing images of diseased and healthy tomato leaves. Train the model to identify various diseases affecting tomato plants. Additionally, the system suggests remedies for the particular disease detected, contributing to the improvement of crop health.
 
-## Dataset
-Download the dataset here ('https://www.kaggle.com/datasets/nirajkumar9649/tomato-leaf-disease-detection-using-cnn') and organize it into training, testing, and validation sets.
+
 
 ## Files
 cnn.py: Contains the CNN model architecture for tomato leaf disease detection.
@@ -25,7 +24,7 @@ userlog.html: Page for uploading images, and accessing disease name and remedies
 3. Upload an image of a tomato leaf to detect diseases.
 4. View personalized features and results on the same page.
 ## Contact
-For any inquiries or assistance, please feel free to contact me via email at nirajccs1999@gmail.com.
+For any inquiries or assistance, please feel free to contact me via email at tejulamani720@gmail.com.
 
 ## Results
 
